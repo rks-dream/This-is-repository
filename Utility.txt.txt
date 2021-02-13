@@ -1,0 +1,1 @@
+This is utility function used by version one software
